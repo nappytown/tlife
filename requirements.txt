@@ -1,0 +1,10 @@
+ccxt
+pandas
+python-dotenv
+ta
+python-telegram-bot==20.*
+schedule
+loguru
+pytest
+pytest-asyncio
+freezegun

@@ -1,0 +1,16 @@
+# Environment and secrets
+.env
+
+# Kill switch — create manually to halt bot, never commit
+STOP_BOT
+
+# Runtime data
+data/ledger.json
+data/backtest_results/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
